@@ -1,0 +1,501 @@
+supplier_id,supplier_name,supplier_type,contact_person,email,contact_number,city,country,supplier_rating,lead_time_days,status,supplier_category
+1,Crompton Greaves ,Manufacturer,Kimberly Campbell,cromptongreaves1@gmail.com,8260181590,Pune,India,3.6,6,Inactive,Appliances
+2,TCL ,Manufacturer,Juan Gomez,tcl2@gmail.com,19930166131,Guangzhou,China,4.3,25,Active,Appliances
+3,Dixon Technologies ,Manufacturer,Michelle Brown,dixontechnologies3@gmail.com,9091390996,Chennai,India,4.7,6,Active,Electronics
+4,Voltas ,Manufacturer,Edwin Farley,voltas4@gmail.com,6308246281,Mumbai,India,4.2,6,Active,Appliances
+5,Panasonic ,Manufacturer,Sierra Ball,panasonic5@gmail.com,09048219935,Tokyo,Japan,4.5,16,Active,Appliances
+6,Huawei ,Manufacturer,Henry Clayton,huawei6@gmail.com,13781909378,Guangzhou,China,3.7,33,Inactive,Electronics
+7,Midea ,Manufacturer,Pamela Hammond,midea7@gmail.com,18657975432,Beijing,China,4.7,25,Inactive,Appliances
+8,LG Electronics ,Manufacturer,Corey Steele,lgelectronics8@gmail.com,01031948757,Busan,South Korea,4.1,20,Active,Electronics
+9,Canon ,Manufacturer,Nicholas Smith,canon9@gmail.com,08091186252,Nagoya,Japan,3.8,19,Active,Office Supplies
+10,Tata Electronics ,Manufacturer,Rodney Davidson,tataelectronics10@gmail.com,9601895559,Chennai,India,4.5,9,Active,Electronics
+11,Huawei ,Manufacturer,Erika Robles,huawei11@gmail.com,19897114710,Beijing,China,4.1,32,Active,Electronics
+12,SAP ,Manufacturer,Jessica Baxter,sap12@gmail.com,01714974650,Frankfurt,Germany,4,28,Active,Industrial
+13,Acer ,Manufacturer,Peggy Jacobs,acer13@gmail.com,0975291703,Taipei,Taiwan,4.7,21,Active,Electronics
+14,Godrej & Boyce ,Manufacturer,Toni Taylor,godrejboyce14@gmail.com,8236671276,Delhi,India,3.8,10,Active,Furniture
+15,Hitachi ,Manufacturer,Lindsey Parks,hitachi15@gmail.com,09042684656,Nagoya,Japan,4.1,10,Active,Industrial
+16,Dixon Technologies ,Manufacturer,Adam Russo,dixontechnologies16@gmail.com,7212233079,Chennai,India,4.6,10,Active,Electronics
+17,Voltas ,Manufacturer,Robert Tran,voltas17@gmail.com,7440268599,Mumbai,India,4.7,4,Active,Appliances
+18,Hitachi ,Manufacturer,Joseph Curtis,hitachi18@gmail.com,08028907866,Tokyo,Japan,4.2,13,Active,Industrial
+19,Voltas ,Manufacturer,Angel Goodwin,voltas19@gmail.com,9617603137,Chennai,India,3.3,10,Active,Appliances
+20,Haier ,Manufacturer,Leonard Navarro,haier20@gmail.com,15115901092,Beijing,China,3.7,19,Active,Appliances
+21,TVS Supply Chain ,Distributor,Patricia Best,tvssupplychain21@gmail.com,6590139624,Bengaluru,India,4.9,2,Active,Logistics
+22,MSI ,Manufacturer,Andrea Dodson,msi22@gmail.com,0959571177,Taipei,Taiwan,3.8,22,Active,Electronics
+23,Epson ,Manufacturer,Cynthia Vasquez,epson23@gmail.com,08074121547,Tokyo,Japan,4.6,19,Active,Office Supplies
+24,Epson ,Manufacturer,Patricia Martinez,epson24@gmail.com,09028038528,Tokyo,Japan,3.3,13,Inactive,Office Supplies
+25,Continental ,Manufacturer,Cheryl Brady,continental25@gmail.com,01518414852,Frankfurt,Germany,4.8,17,Active,Automotive
+26,Voltas ,Manufacturer,Catherine Schroeder,voltas26@gmail.com,8388853933,Mumbai,India,4.6,6,Active,Appliances
+27,Emirates Logistics ,Distributor,Chad Long,emirateslogistics27@gmail.com,0553387500,Dubai,UAE,4.3,16,Active,Logistics
+28,TVS Supply Chain ,Distributor,Beverly Pearson,tvssupplychain28@gmail.com,8743957551,Hyderabad,India,3.3,6,Active,Logistics
+29,Tata Electronics ,Manufacturer,Mr. Shaun Baker,tataelectronics29@gmail.com,7137353799,Hyderabad,India,5,3,Active,Electronics
+30,Tata Electronics ,Manufacturer,Kayla Smith,tataelectronics30@gmail.com,6751163726,Noida,India,4.5,3,Active,Electronics
+31,Havells India ,Manufacturer,Elizabeth Hall,havellsindia31@gmail.com,8167612220,Chennai,India,3.6,10,Active,Appliances
+32,Samsung Electronics ,Manufacturer,Julia Hoffman,samsungelectronics32@gmail.com,01029729975,Seoul,South Korea,3.5,14,Active,Electronics
+33,Dixon Technologies ,Manufacturer,Brian Smith,dixontechnologies33@gmail.com,7882001826,Chennai,India,3.2,9,Active,Electronics
+34,Crompton Greaves ,Manufacturer,Sheri Carlson DVM,cromptongreaves34@gmail.com,7304348395,Noida,India,3.9,8,Active,Appliances
+35,Qualcomm ,Manufacturer,Katrina Medina,qualcomm35@gmail.com,4088205798,Seattle,USA,4.6,29,Active,Electronics
+36,HP ,Manufacturer,Christopher Ellison,hp36@gmail.com,5104828807,New York,USA,4.4,18,Active,Electronics
+37,Hoa Phat Group ,Manufacturer,Mr. Austin Sullivan,hoaphatgroup37@gmail.com,0912902227,Hanoi,Vietnam,4,26,Active,Industrial
+38,Blue Star ,Manufacturer,Chelsea Smith,bluestar38@gmail.com,6805888718,Noida,India,3.8,8,Inactive,Appliances
+39,Crompton Greaves ,Manufacturer,Natalie Watson,cromptongreaves39@gmail.com,6334018780,Delhi,India,4.5,6,Inactive,Appliances
+40,Viettel ,Manufacturer,Jimmy Hudson,viettel40@gmail.com,0911759898,Ho Chi Minh City,Vietnam,4.2,20,Active,Industrial
+41,BYD ,Manufacturer,Darren Swanson,byd41@gmail.com,15747887838,Shenzhen,China,3.7,24,Active,Automotive
+42,Midea ,Manufacturer,Hannah Miller,midea42@gmail.com,17183726167,Shenzhen,China,4.3,27,Active,Appliances
+43,Dixon Technologies ,Manufacturer,Brian Hoffman,dixontechnologies43@gmail.com,8136134125,Mumbai,India,3.7,4,Active,Electronics
+44,Continental ,Manufacturer,Randy Garcia,continental44@gmail.com,01524273167,Munich,Germany,3.4,23,Active,Automotive
+45,TVS Supply Chain ,Distributor,John Kelly,tvssupplychain45@gmail.com,7326865635,Mumbai,India,3.3,8,Active,Logistics
+46,Crompton Greaves ,Manufacturer,John Nichols,cromptongreaves46@gmail.com,8150587706,Hyderabad,India,4.5,4,Active,Appliances
+47,Crompton Greaves ,Manufacturer,Edward Johnson,cromptongreaves47@gmail.com,8894811311,Delhi,India,4.7,10,Active,Appliances
+48,TCL ,Manufacturer,Jennifer Armstrong,tcl48@gmail.com,17140242646,Guangzhou,China,3.7,30,Active,Appliances
+49,Huawei ,Manufacturer,Diana Morales,huawei49@gmail.com,15088975140,Guangzhou,China,3.4,32,Active,Electronics
+50,Hoa Phat Group ,Manufacturer,Aaron May,hoaphatgroup50@gmail.com,0932614014,Hanoi,Vietnam,4.3,17,Active,Industrial
+51,Haier ,Manufacturer,Carlos Garcia,haier51@gmail.com,13693141705,Shanghai,China,4.7,20,Active,Appliances
+52,Qualcomm ,Manufacturer,Angela Henry,qualcomm52@gmail.com,6468492083,Austin,USA,4.4,35,Active,Electronics
+53,Reliance Retail ,Distributor,Robin Dillon,relianceretail53@gmail.com,6240234483,Bengaluru,India,3.7,5,Active,Fashion
+54,Dixon Technologies ,Manufacturer,Kyle Peterson,dixontechnologies54@gmail.com,8782450400,Chennai,India,3.4,8,Active,Electronics
+55,Bharat Forge ,Manufacturer,Rose Turner,bharatforge55@gmail.com,6883873716,Bengaluru,India,3.6,5,Active,Automotive
+56,BOE Technology ,Manufacturer,Ronald Obrien,boetechnology56@gmail.com,19886843353,Guangzhou,China,4.1,31,Active,Electronics
+57,Lenovo ,Manufacturer,Emily Atkins,lenovo57@gmail.com,13965020146,Beijing,China,4,26,Active,Electronics
+58,Haier ,Manufacturer,Brandy Turner,haier58@gmail.com,15101684934,Beijing,China,3.5,25,Active,Appliances
+59,Dixon Technologies ,Manufacturer,Edward Welch,dixontechnologies59@gmail.com,6722470455,Pune,India,3.6,9,Active,Electronics
+60,TCL ,Manufacturer,Erica Weber,tcl60@gmail.com,17730435205,Guangzhou,China,4.3,33,Active,Appliances
+61,VinFast ,Manufacturer,Scott Middleton,vinfast61@gmail.com,0771748338,Hanoi,Vietnam,4.3,14,Active,Automotive
+62,TVS Supply Chain ,Distributor,Emily Taylor,tvssupplychain62@gmail.com,6141269060,Noida,India,3.7,4,Active,Logistics
+63,SAP ,Manufacturer,Andrew Zimmerman,sap63@gmail.com,01574319829,Frankfurt,Germany,4.8,27,Active,Industrial
+64,Sharp ,Manufacturer,Brandon Benson,sharp64@gmail.com,08057249208,Tokyo,Japan,4.9,25,Active,Industrial
+65,Haier ,Manufacturer,Eric Irwin,haier65@gmail.com,18682889093,Beijing,China,3.5,17,Active,Appliances
+66,Havells India ,Manufacturer,Sylvia Medina,havellsindia66@gmail.com,6002516780,Pune,India,3.5,9,Active,Appliances
+67,Tata Electronics ,Manufacturer,Matthew Aguilar,tataelectronics67@gmail.com,6837407188,Hyderabad,India,4.3,2,Active,Electronics
+68,Samsung Electronics ,Manufacturer,Tracy Aguirre,samsungelectronics68@gmail.com,01018174143,Busan,South Korea,4.1,25,Active,Electronics
+69,Gigabyte ,Manufacturer,Ronald Bell,gigabyte69@gmail.com,0933776174,Taichung,Taiwan,3.5,23,Active,Electronics
+70,Haier ,Manufacturer,Mrs. Crystal White,haier70@gmail.com,13293192544,Shanghai,China,4,30,Active,Appliances
+71,Bharat Forge ,Manufacturer,Tyler Bailey,bharatforge71@gmail.com,7070741374,Hyderabad,India,3.7,2,Active,Automotive
+72,Viettel ,Manufacturer,Rachel Johnson,viettel72@gmail.com,0898477718,Hanoi,Vietnam,3.9,28,Active,Industrial
+73,Canon ,Manufacturer,Craig Wright,canon73@gmail.com,07041704718,Osaka,Japan,4.3,13,Inactive,Office Supplies
+74,Havells India ,Manufacturer,Jessica Robertson,havellsindia74@gmail.com,9463319128,Hyderabad,India,4.6,4,Active,Appliances
+75,Godrej & Boyce ,Manufacturer,Cynthia Davis,godrejboyce75@gmail.com,8529841537,Noida,India,4.7,6,Active,Furniture
+76,SAP ,Manufacturer,Elaine Smith,sap76@gmail.com,01606020776,Munich,Germany,3.6,24,Active,Industrial
+77,Huawei ,Manufacturer,Brett Lin,huawei77@gmail.com,17626565150,Shanghai,China,3.5,32,Active,Electronics
+78,Havells India ,Manufacturer,Whitney Anderson,havellsindia78@gmail.com,8561304451,Bengaluru,India,3.6,9,Active,Appliances
+79,Viettel ,Manufacturer,Vickie Sullivan,viettel79@gmail.com,0776915640,Hanoi,Vietnam,4.3,28,Active,Industrial
+80,Reliance Retail ,Distributor,Andrew Aguirre,relianceretail80@gmail.com,8104234685,Noida,India,4.2,6,Active,Fashion
+81,HP ,Manufacturer,Sarah Wolfe,hp81@gmail.com,3127606883,Seattle,USA,4,35,Active,Electronics
+82,Dixon Technologies ,Manufacturer,Meghan Lee,dixontechnologies82@gmail.com,6067924708,Chennai,India,4.5,9,Inactive,Electronics
+83,TVS Supply Chain ,Distributor,Mitchell Preston,tvssupplychain83@gmail.com,7276544446,Pune,India,4.6,8,Active,Logistics
+84,Blue Star ,Manufacturer,Veronica Patterson,bluestar84@gmail.com,7478612213,Noida,India,3.7,7,Active,Appliances
+85,Apple ,Manufacturer,William Rogers,apple85@gmail.com,6469837576,San Jose,USA,4,33,Inactive,Electronics
+86,Voltas ,Manufacturer,Luis Morrison,voltas86@gmail.com,7833125815,Pune,India,3.8,6,Active,Appliances
+87,TCL ,Manufacturer,Donna Adkins,tcl87@gmail.com,17054930666,Shanghai,China,4.2,29,Active,Appliances
+88,TVS Supply Chain ,Distributor,William Moore,tvssupplychain88@gmail.com,7645074952,Bengaluru,India,4.5,7,Active,Logistics
+89,Reliance Retail ,Distributor,Scott Coleman,relianceretail89@gmail.com,7143667640,Pune,India,4.4,3,Active,Fashion
+90,Voltas ,Manufacturer,Taylor Hood,voltas90@gmail.com,7067970168,Chennai,India,5,9,Active,Appliances
+91,Tata Electronics ,Manufacturer,Jeremy Johnston,tataelectronics91@gmail.com,9731322817,Hyderabad,India,4.2,10,Active,Electronics
+92,BYD ,Manufacturer,Todd Campbell,byd92@gmail.com,13680023904,Beijing,China,4.5,31,Active,Automotive
+93,Dixon Technologies ,Manufacturer,William Mcknight,dixontechnologies93@gmail.com,7486111489,Noida,India,3.7,10,Active,Electronics
+94,Viettel ,Manufacturer,Robert King,viettel94@gmail.com,0386439008,Hanoi,Vietnam,4.8,28,Active,Industrial
+95,Xiaomi ,Manufacturer,Victoria Ortega,xiaomi95@gmail.com,17674537838,Shanghai,China,4.9,31,Active,Electronics
+96,Tata Electronics ,Manufacturer,Elizabeth Owens,tataelectronics96@gmail.com,7064003761,Delhi,India,4,4,Active,Electronics
+97,Viettel ,Manufacturer,Justin Lindsey,viettel97@gmail.com,0563653705,Ho Chi Minh City,Vietnam,4.7,15,Active,Industrial
+98,Tata Electronics ,Manufacturer,Monica Gonzalez,tataelectronics98@gmail.com,9563048137,Bengaluru,India,4.1,5,Active,Electronics
+99,VinFast ,Manufacturer,Cindy Walters,vinfast99@gmail.com,0384337344,Hanoi,Vietnam,3.6,30,Inactive,Automotive
+100,BYD ,Manufacturer,Michelle Goodman,byd100@gmail.com,13797923760,Beijing,China,4,22,Active,Automotive
+101,Hyundai Mobis ,Manufacturer,Susan Johnson,hyundaimobis101@gmail.com,01092603092,Seoul,South Korea,4.8,13,Active,Automotive
+102,Blue Star ,Manufacturer,Robert Alvarez,bluestar102@gmail.com,9002675112,Bengaluru,India,4.2,3,Active,Appliances
+103,Dixon Technologies ,Manufacturer,Jacob Day,dixontechnologies103@gmail.com,8328704655,Delhi,India,4.6,9,Active,Electronics
+104,Voltas ,Manufacturer,Joseph Wilson,voltas104@gmail.com,9210141561,Chennai,India,4.6,5,Active,Appliances
+105,Bharat Forge ,Manufacturer,Lauren Kennedy,bharatforge105@gmail.com,7654610735,Mumbai,India,3.2,8,Active,Automotive
+106,Havells India ,Manufacturer,Amanda Johnson,havellsindia106@gmail.com,9355706360,Bengaluru,India,4.5,10,Active,Appliances
+107,Toshiba ,Manufacturer,Melissa Williams,toshiba107@gmail.com,08007104319,Nagoya,Japan,3.8,16,Active,Industrial
+108,Sharp ,Manufacturer,Sara Graham,sharp108@gmail.com,08054590454,Tokyo,Japan,4.7,15,Active,Industrial
+109,Godrej & Boyce ,Manufacturer,David Campos,godrejboyce109@gmail.com,8091031776,Pune,India,4.5,9,Active,Furniture
+110,Huawei ,Manufacturer,Anthony Nichols,huawei110@gmail.com,17167272042,Guangzhou,China,3.5,21,Active,Electronics
+111,Continental ,Manufacturer,Bruce Wood,continental111@gmail.com,01703557591,Frankfurt,Germany,4.3,21,Active,Automotive
+112,Viettel ,Manufacturer,Richard Dixon,viettel112@gmail.com,0823623610,Hanoi,Vietnam,4.9,26,Active,Industrial
+113,Viettel ,Manufacturer,Carol Gonzalez,viettel113@gmail.com,0818852611,Ho Chi Minh City,Vietnam,3.3,21,Active,Industrial
+114,Crompton Greaves ,Manufacturer,Jean Crawford,cromptongreaves114@gmail.com,8913167723,Hyderabad,India,3.3,8,Active,Appliances
+115,MSI ,Manufacturer,Kaitlin Nguyen,msi115@gmail.com,0926793814,Taipei,Taiwan,5,27,Active,Electronics
+116,Viettel ,Manufacturer,Monica Hernandez,viettel116@gmail.com,0584945443,Hanoi,Vietnam,4.5,26,Active,Industrial
+117,SAP ,Manufacturer,Tyler Ortiz,sap117@gmail.com,01603233249,Munich,Germany,3.5,28,Active,Industrial
+118,Crompton Greaves ,Manufacturer,Kelli Francis,cromptongreaves118@gmail.com,7516438831,Delhi,India,4.6,5,Active,Appliances
+119,Reliance Retail ,Distributor,Rachel Jones,relianceretail119@gmail.com,9010737504,Mumbai,India,3.5,4,Inactive,Fashion
+120,Viettel ,Manufacturer,Megan Butler,viettel120@gmail.com,0391039931,Ho Chi Minh City,Vietnam,4.9,12,Active,Industrial
+121,Voltas ,Manufacturer,William Mays Jr.,voltas121@gmail.com,8827940199,Chennai,India,4.4,5,Inactive,Appliances
+122,Bharat Forge ,Manufacturer,Richard Smith,bharatforge122@gmail.com,8305520340,Bengaluru,India,4.2,2,Active,Automotive
+123,Continental ,Manufacturer,David Cook,continental123@gmail.com,01703056529,Munich,Germany,4.7,15,Active,Automotive
+124,Tata Electronics ,Manufacturer,Taylor Taylor,tataelectronics124@gmail.com,8130787161,Pune,India,4.8,8,Inactive,Electronics
+125,Godrej & Boyce ,Manufacturer,Benjamin Rogers,godrejboyce125@gmail.com,9828126464,Noida,India,4.9,6,Active,Furniture
+126,Samsung Electronics ,Manufacturer,Brenda Williams,samsungelectronics126@gmail.com,01046049566,Busan,South Korea,4.3,17,Active,Electronics
+127,Asus ,Manufacturer,Jill Thomas,asus127@gmail.com,0905366306,Taichung,Taiwan,4.8,12,Active,Electronics
+128,ZF Friedrichshafen ,Manufacturer,Melissa Stokes,zffriedrichshafen128@gmail.com,01526116957,Berlin,Germany,4.3,16,Active,Automotive
+129,Xiaomi ,Manufacturer,Jason Strickland,xiaomi129@gmail.com,15120082619,Guangzhou,China,3.4,23,Active,Electronics
+130,Samsung Electronics ,Manufacturer,Yvette Tanner,samsungelectronics130@gmail.com,01095822542,Busan,South Korea,4.2,13,Active,Electronics
+131,Havells India ,Manufacturer,Tracy Thompson,havellsindia131@gmail.com,7116734207,Delhi,India,4.6,4,Active,Appliances
+132,Huawei ,Manufacturer,Cynthia Chavez,huawei132@gmail.com,17709619239,Shanghai,China,4.6,26,Active,Electronics
+133,Havells India ,Manufacturer,Michael Moore,havellsindia133@gmail.com,9937293068,Chennai,India,4,5,Active,Appliances
+134,BOE Technology ,Manufacturer,Harold Jordan,boetechnology134@gmail.com,15165123308,Guangzhou,China,3.4,18,Active,Electronics
+135,LG Electronics ,Manufacturer,Andrew Carroll,lgelectronics135@gmail.com,01005169784,Busan,South Korea,3.9,20,Active,Electronics
+136,Haier ,Manufacturer,Jamie Kent,haier136@gmail.com,18549366578,Guangzhou,China,4.8,23,Active,Appliances
+137,Canon ,Manufacturer,Nichole Scott,canon137@gmail.com,08020097737,Tokyo,Japan,4.6,23,Active,Office Supplies
+138,Acer ,Manufacturer,Dr. Kimberly Harris,acer138@gmail.com,0997276112,Taipei,Taiwan,4.6,23,Inactive,Electronics
+139,Tata Electronics ,Manufacturer,Amanda Ayala,tataelectronics139@gmail.com,8651788002,Delhi,India,4.1,3,Active,Electronics
+140,Havells India ,Manufacturer,Lauren Brown,havellsindia140@gmail.com,6581086201,Chennai,India,4.6,6,Active,Appliances
+141,Reliance Retail ,Distributor,Taylor Austin,relianceretail141@gmail.com,6327423159,Hyderabad,India,3.9,3,Active,Fashion
+142,Crompton Greaves ,Manufacturer,Kirsten Conner,cromptongreaves142@gmail.com,8259472487,Mumbai,India,3.4,4,Active,Appliances
+143,Huawei ,Manufacturer,Christopher Hoffman,huawei143@gmail.com,15894983550,Shanghai,China,5,25,Active,Electronics
+144,Godrej & Boyce ,Manufacturer,Willie Mcknight,godrejboyce144@gmail.com,7262456241,Chennai,India,4,4,Active,Furniture
+145,Hoa Phat Group ,Manufacturer,Paige Flores,hoaphatgroup145@gmail.com,0918057889,Hanoi,Vietnam,4.2,29,Active,Industrial
+146,Continental ,Manufacturer,Crystal Browning,continental146@gmail.com,01711486546,Munich,Germany,4.2,19,Active,Automotive
+147,Blue Star ,Manufacturer,Justin Duncan,bluestar147@gmail.com,8925517329,Delhi,India,3.5,7,Inactive,Appliances
+148,Godrej & Boyce ,Manufacturer,Rebecca Johnson,godrejboyce148@gmail.com,6484495003,Noida,India,3.4,10,Active,Furniture
+149,Blue Star ,Manufacturer,William Chen,bluestar149@gmail.com,7496685027,Delhi,India,3.9,5,Active,Appliances
+150,Crompton Greaves ,Manufacturer,Mrs. Jennifer Hall,cromptongreaves150@gmail.com,7900009541,Chennai,India,3.2,9,Active,Appliances
+151,Dell Technologies ,Manufacturer,Christopher Johnson,delltechnologies151@gmail.com,6467836949,New York,USA,4.9,20,Active,Electronics
+152,Dixon Technologies ,Manufacturer,Jonathan Garcia,dixontechnologies152@gmail.com,7359722032,Chennai,India,3.6,2,Active,Electronics
+153,Haier ,Manufacturer,Andrew Acosta,haier153@gmail.com,18711246400,Guangzhou,China,3.4,17,Active,Appliances
+154,Blue Star ,Manufacturer,Mario Frazier,bluestar154@gmail.com,8997987320,Hyderabad,India,3.8,4,Active,Appliances
+155,Godrej & Boyce ,Manufacturer,Kelsey Hill,godrejboyce155@gmail.com,6080623201,Noida,India,3.7,9,Active,Furniture
+156,Sharp ,Manufacturer,Daniel Santos,sharp156@gmail.com,07098326389,Tokyo,Japan,4.3,18,Active,Industrial
+157,Tata Electronics ,Manufacturer,Russell Williams MD,tataelectronics157@gmail.com,9928414078,Delhi,India,3.7,4,Active,Electronics
+158,SK hynix ,Manufacturer,Mercedes Price,skhynix158@gmail.com,01006671723,Seoul,South Korea,4.1,11,Active,Electronics
+159,Reliance Retail ,Distributor,Sara Russell,relianceretail159@gmail.com,6430154048,Mumbai,India,3.2,10,Active,Fashion
+160,SK hynix ,Manufacturer,Megan Hopkins DVM,skhynix160@gmail.com,01068443180,Busan,South Korea,3.8,12,Active,Electronics
+161,Voltas ,Manufacturer,Kelly Mccall,voltas161@gmail.com,7433253659,Mumbai,India,3.9,6,Active,Appliances
+162,Havells India ,Manufacturer,Scott Stevens,havellsindia162@gmail.com,7687780063,Chennai,India,4.4,2,Active,Appliances
+163,Blue Star ,Manufacturer,Kristin Martinez,bluestar163@gmail.com,8369919220,Mumbai,India,4.5,2,Inactive,Appliances
+164,Godrej & Boyce ,Manufacturer,Lisa Davis,godrejboyce164@gmail.com,6119252000,Chennai,India,4.4,8,Active,Furniture
+165,Voltas ,Manufacturer,Brandon Lopez,voltas165@gmail.com,7010195381,Bengaluru,India,3.5,9,Inactive,Appliances
+166,Haier ,Manufacturer,Jennifer Lynch,haier166@gmail.com,18213331001,Beijing,China,3.7,15,Active,Appliances
+167,Blue Star ,Manufacturer,Tammy Harris,bluestar167@gmail.com,8712134556,Pune,India,4.4,8,Active,Appliances
+168,Blue Star ,Manufacturer,Brett Potter,bluestar168@gmail.com,8054405598,Hyderabad,India,4.3,2,Active,Appliances
+169,Lenovo ,Manufacturer,Dylan Reid,lenovo169@gmail.com,18949060681,Shenzhen,China,4.3,34,Active,Electronics
+170,Havells India ,Manufacturer,Jake Wilson,havellsindia170@gmail.com,8708931942,Chennai,India,4.9,3,Active,Appliances
+171,Havells India ,Manufacturer,Ashlee Carroll,havellsindia171@gmail.com,9083400571,Chennai,India,4,9,Active,Appliances
+172,Godrej & Boyce ,Manufacturer,Laurie Hayes,godrejboyce172@gmail.com,9279584924,Hyderabad,India,5,2,Active,Furniture
+173,Panasonic ,Manufacturer,Aaron Martinez,panasonic173@gmail.com,07037211781,Tokyo,Japan,4.9,20,Active,Appliances
+174,TCL ,Manufacturer,Alicia Thomas,tcl174@gmail.com,17751661605,Shenzhen,China,4,28,Active,Appliances
+175,Haier ,Manufacturer,Sylvia Smith,haier175@gmail.com,15844688263,Shanghai,China,3.4,18,Active,Appliances
+176,Crompton Greaves ,Manufacturer,Nicole Zamora,cromptongreaves176@gmail.com,9289905958,Pune,India,3.8,6,Active,Appliances
+177,Emirates Logistics ,Distributor,Cesar Perez,emirateslogistics177@gmail.com,0527852774,Dubai,UAE,4.8,12,Active,Logistics
+178,Midea ,Manufacturer,Luke Gonzales,midea178@gmail.com,15925738344,Guangzhou,China,4.3,29,Active,Appliances
+179,Midea ,Manufacturer,Wendy Long,midea179@gmail.com,15023598523,Beijing,China,4.8,19,Active,Appliances
+180,VinFast ,Manufacturer,Brian Rivera,vinfast180@gmail.com,0703412136,Hanoi,Vietnam,3.7,24,Active,Automotive
+181,Crompton Greaves ,Manufacturer,Karen Harris,cromptongreaves181@gmail.com,7244643114,Pune,India,4.2,6,Active,Appliances
+182,TVS Supply Chain ,Distributor,Brittany Bennett,tvssupplychain182@gmail.com,7670066384,Hyderabad,India,4.2,8,Active,Logistics
+183,Crompton Greaves ,Manufacturer,Kathy Strickland,cromptongreaves183@gmail.com,9024960369,Noida,India,3.6,5,Inactive,Appliances
+184,BOE Technology ,Manufacturer,Wanda Cox,boetechnology184@gmail.com,18539321765,Shanghai,China,3.5,28,Active,Electronics
+185,Viettel ,Manufacturer,Seth Grant,viettel185@gmail.com,0561636246,Ho Chi Minh City,Vietnam,3.3,23,Active,Industrial
+186,Crompton Greaves ,Manufacturer,Raymond Tran,cromptongreaves186@gmail.com,9709682506,Hyderabad,India,4.4,6,Active,Appliances
+187,BOE Technology ,Manufacturer,Lauren Tanner,boetechnology187@gmail.com,19810483238,Shanghai,China,3.8,26,Active,Electronics
+188,VinFast ,Manufacturer,Andrew Martinez,vinfast188@gmail.com,0761978378,Hanoi,Vietnam,4.7,25,Active,Automotive
+189,TCL ,Manufacturer,Paula Hall,tcl189@gmail.com,13158567326,Beijing,China,5,22,Active,Appliances
+190,TVS Supply Chain ,Distributor,Nathan Coffey,tvssupplychain190@gmail.com,6950446600,Chennai,India,4.5,5,Active,Logistics
+191,Dell Technologies ,Manufacturer,Bradley Ryan,delltechnologies191@gmail.com,2138659413,Seattle,USA,4.9,25,Active,Electronics
+192,Reliance Retail ,Distributor,David Gonzales,relianceretail192@gmail.com,8683673221,Delhi,India,3.4,8,Active,Fashion
+193,Havells India ,Manufacturer,Robert Salinas,havellsindia193@gmail.com,7783256748,Chennai,India,4.7,5,Active,Appliances
+194,Bharat Forge ,Manufacturer,Natalie Frazier,bharatforge194@gmail.com,7753464627,Mumbai,India,3.8,4,Active,Automotive
+195,Bharat Forge ,Manufacturer,Kevin Wright,bharatforge195@gmail.com,6453457769,Bengaluru,India,3.3,3,Active,Automotive
+196,Hyundai Mobis ,Manufacturer,Christopher Edwards,hyundaimobis196@gmail.com,01015246019,Busan,South Korea,5,18,Active,Automotive
+197,Crompton Greaves ,Manufacturer,Stephanie Sutton,cromptongreaves197@gmail.com,8285900314,Chennai,India,3.4,3,Active,Appliances
+198,ZF Friedrichshafen ,Manufacturer,Anna Henderson,zffriedrichshafen198@gmail.com,01579192327,Berlin,Germany,4.2,24,Active,Automotive
+199,Crompton Greaves ,Manufacturer,Michael Anderson,cromptongreaves199@gmail.com,8236829918,Bengaluru,India,5,9,Active,Appliances
+200,Tata Electronics ,Manufacturer,Phyllis Casey,tataelectronics200@gmail.com,8373817181,Delhi,India,4.9,8,Active,Electronics
+201,Asus ,Manufacturer,Kendra Flores,asus201@gmail.com,0946327780,Taipei,Taiwan,3.8,16,Active,Electronics
+202,Dixon Technologies ,Manufacturer,Donald Yoder,dixontechnologies202@gmail.com,9727372890,Chennai,India,3.2,9,Active,Electronics
+203,VinFast ,Manufacturer,Alan Yates,vinfast203@gmail.com,0375797475,Ho Chi Minh City,Vietnam,4,17,Active,Automotive
+204,VinFast ,Manufacturer,Michael Holt,vinfast204@gmail.com,0786125009,Hanoi,Vietnam,4.7,18,Active,Automotive
+205,Huawei ,Manufacturer,Michael Reynolds,huawei205@gmail.com,13251877203,Guangzhou,China,3.9,32,Active,Electronics
+206,HP ,Manufacturer,Ashley Williams,hp206@gmail.com,9178251557,New York,USA,4.5,31,Inactive,Electronics
+207,Havells India ,Manufacturer,Kyle Russell,havellsindia207@gmail.com,7465648044,Noida,India,4.7,7,Active,Appliances
+208,Godrej & Boyce ,Manufacturer,Edward Hayden,godrejboyce208@gmail.com,8765848537,Delhi,India,3.7,9,Active,Furniture
+209,Tata Electronics ,Manufacturer,Jamie Clark,tataelectronics209@gmail.com,6535429106,Bengaluru,India,3.5,8,Active,Electronics
+210,Bharat Forge ,Manufacturer,Christopher Burgess,bharatforge210@gmail.com,9890641003,Bengaluru,India,4.1,2,Active,Automotive
+211,TCL ,Manufacturer,Mary Garcia,tcl211@gmail.com,18990889692,Guangzhou,China,3.9,34,Inactive,Appliances
+212,TVS Supply Chain ,Distributor,Nicholas Anderson,tvssupplychain212@gmail.com,6307212061,Delhi,India,3.4,8,Active,Logistics
+213,BYD ,Manufacturer,Robin Garrett,byd213@gmail.com,13052484426,Shanghai,China,3.3,20,Active,Automotive
+214,Dixon Technologies ,Manufacturer,Erin Robbins,dixontechnologies214@gmail.com,6506990798,Bengaluru,India,4,4,Active,Electronics
+215,Bharat Forge ,Manufacturer,Carla Branch,bharatforge215@gmail.com,6169671069,Noida,India,5,9,Active,Automotive
+216,Blue Star ,Manufacturer,Chad Ingram,bluestar216@gmail.com,7768117320,Chennai,India,3.5,8,Active,Appliances
+217,Canon ,Manufacturer,David Burns,canon217@gmail.com,08000113127,Osaka,Japan,3.9,18,Active,Office Supplies
+218,ZF Friedrichshafen ,Manufacturer,John Powell,zffriedrichshafen218@gmail.com,01514937205,Berlin,Germany,3.7,27,Active,Automotive
+219,Lenovo ,Manufacturer,David Riley,lenovo219@gmail.com,15014877400,Shenzhen,China,5,27,Active,Electronics
+220,Godrej & Boyce ,Manufacturer,Emily Herman,godrejboyce220@gmail.com,6009164492,Pune,India,4.6,4,Active,Furniture
+221,BOE Technology ,Manufacturer,Lori Ortiz,boetechnology221@gmail.com,19890559772,Shenzhen,China,3.8,30,Active,Electronics
+222,VinFast ,Manufacturer,Lisa Norris,vinfast222@gmail.com,0361526767,Ho Chi Minh City,Vietnam,4.3,26,Active,Automotive
+223,DP World ,Distributor,Kelly Ortiz,dpworld223@gmail.com,0549544099,Abu Dhabi,UAE,3.5,17,Active,Logistics
+224,TVS Supply Chain ,Distributor,Hailey Clark,tvssupplychain224@gmail.com,8902949636,Chennai,India,3.5,6,Active,Logistics
+225,Godrej & Boyce ,Manufacturer,Kristen Tucker,godrejboyce225@gmail.com,9693740544,Bengaluru,India,4.1,9,Active,Furniture
+226,TCL ,Manufacturer,Jon Tanner,tcl226@gmail.com,18629042924,Guangzhou,China,3.8,22,Active,Appliances
+227,Cisco ,Manufacturer,Katherine Allen,cisco227@gmail.com,6469581887,Austin,USA,4.8,22,Active,Electronics
+228,Voltas ,Manufacturer,Bryce Ramirez,voltas228@gmail.com,9334906734,Noida,India,4.6,7,Active,Appliances
+229,LG Electronics ,Manufacturer,Jeffrey Brown,lgelectronics229@gmail.com,01090678185,Busan,South Korea,3.3,25,Active,Electronics
+230,Dixon Technologies ,Manufacturer,Patricia Nunez,dixontechnologies230@gmail.com,6369848578,Pune,India,3.5,9,Active,Electronics
+231,Reliance Retail ,Distributor,Ryan Nunez,relianceretail231@gmail.com,7333124599,Delhi,India,4.5,2,Active,Fashion
+232,Qualcomm ,Manufacturer,Miranda Frank,qualcomm232@gmail.com,4158823075,San Jose,USA,4.9,30,Active,Electronics
+233,BYD ,Manufacturer,Heather Glenn,byd233@gmail.com,13757125905,Beijing,China,3.6,20,Active,Automotive
+234,Xiaomi ,Manufacturer,Raymond Salazar,xiaomi234@gmail.com,17389010397,Shenzhen,China,3.8,29,Active,Electronics
+235,Voltas ,Manufacturer,Cathy Lewis DDS,voltas235@gmail.com,7446179924,Mumbai,India,4.7,3,Active,Appliances
+236,TVS Supply Chain ,Distributor,Linda Barry,tvssupplychain236@gmail.com,6532610008,Hyderabad,India,4,8,Inactive,Logistics
+237,Reliance Retail ,Distributor,Michael Smith,relianceretail237@gmail.com,8771961145,Mumbai,India,4.1,5,Active,Fashion
+238,VinFast ,Manufacturer,Samantha Dominguez,vinfast238@gmail.com,0843186272,Ho Chi Minh City,Vietnam,4.3,14,Inactive,Automotive
+239,SAP ,Manufacturer,James Roberts,sap239@gmail.com,01573320450,Munich,Germany,3.8,28,Active,Industrial
+240,Reliance Retail ,Distributor,Dawn Hays,relianceretail240@gmail.com,6048701250,Bengaluru,India,3.6,5,Active,Fashion
+241,Haier ,Manufacturer,Carla Jones,haier241@gmail.com,15749971755,Shanghai,China,4,26,Active,Appliances
+242,Reliance Retail ,Distributor,Cynthia Melton,relianceretail242@gmail.com,8615762732,Noida,India,3.2,8,Active,Fashion
+243,Godrej & Boyce ,Manufacturer,Lisa Johnson,godrejboyce243@gmail.com,6730231952,Mumbai,India,4,5,Active,Furniture
+244,Dixon Technologies ,Manufacturer,Christine Castaneda,dixontechnologies244@gmail.com,9160175537,Mumbai,India,4.9,9,Active,Electronics
+245,TVS Supply Chain ,Distributor,Donald Lewis,tvssupplychain245@gmail.com,6525302782,Mumbai,India,4,6,Active,Logistics
+246,Godrej & Boyce ,Manufacturer,Kyle Simmons,godrejboyce246@gmail.com,9246632049,Mumbai,India,4.4,2,Active,Furniture
+247,Tata Electronics ,Manufacturer,Sandra Valentine,tataelectronics247@gmail.com,8524715771,Hyderabad,India,3.6,5,Active,Electronics
+248,HP ,Manufacturer,Robin Taylor,hp248@gmail.com,3052387414,New York,USA,4.3,31,Active,Electronics
+249,Dixon Technologies ,Manufacturer,Desiree Galvan,dixontechnologies249@gmail.com,7564331646,Hyderabad,India,3.6,6,Active,Electronics
+250,Reliance Retail ,Distributor,Angela Park,relianceretail250@gmail.com,7042078582,Hyderabad,India,3.5,5,Active,Fashion
+251,Godrej & Boyce ,Manufacturer,Mrs. Sonia Jacobs MD,godrejboyce251@gmail.com,9084256063,Noida,India,4.2,4,Active,Furniture
+252,TCL ,Manufacturer,Shelley Burnett,tcl252@gmail.com,17392228323,Shanghai,China,4.9,24,Active,Appliances
+253,Samsung Electronics ,Manufacturer,Jo Porter,samsungelectronics253@gmail.com,01091197423,Seoul,South Korea,4.8,14,Active,Electronics
+254,Godrej & Boyce ,Manufacturer,Erica Stewart,godrejboyce254@gmail.com,7939430186,Hyderabad,India,3.3,4,Active,Furniture
+255,Havells India ,Manufacturer,Jamie Collins,havellsindia255@gmail.com,6855471067,Mumbai,India,5,2,Active,Appliances
+256,Jumbo Electronics ,Distributor,Michael Patterson,jumboelectronics256@gmail.com,0524329502,Dubai,UAE,4,16,Active,Electronics
+257,Samsung Electronics ,Manufacturer,Kimberly Graves,samsungelectronics257@gmail.com,01059905878,Seoul,South Korea,4.2,15,Active,Electronics
+258,Hyundai Mobis ,Manufacturer,Karen Herrera,hyundaimobis258@gmail.com,01011535690,Busan,South Korea,4.6,23,Active,Automotive
+259,Dixon Technologies ,Manufacturer,Matthew Mcclain,dixontechnologies259@gmail.com,8177808820,Delhi,India,3.2,7,Active,Electronics
+260,Godrej & Boyce ,Manufacturer,Chad Villegas,godrejboyce260@gmail.com,7139221448,Hyderabad,India,4.9,10,Active,Furniture
+261,Voltas ,Manufacturer,Dawn Silva,voltas261@gmail.com,6013409978,Hyderabad,India,4.1,4,Active,Appliances
+262,Crompton Greaves ,Manufacturer,Theresa Benton,cromptongreaves262@gmail.com,7715120417,Noida,India,3.3,7,Active,Appliances
+263,Voltas ,Manufacturer,Diane Martin,voltas263@gmail.com,9984111628,Mumbai,India,4.3,8,Active,Appliances
+264,Voltas ,Manufacturer,Ronnie Potts,voltas264@gmail.com,7329762066,Noida,India,5,4,Active,Appliances
+265,Blue Star ,Manufacturer,Dana Reed,bluestar265@gmail.com,6605563569,Noida,India,3.8,10,Active,Appliances
+266,Voltas ,Manufacturer,Jordan Silva,voltas266@gmail.com,8680582536,Hyderabad,India,3.3,8,Active,Appliances
+267,Godrej & Boyce ,Manufacturer,Spencer Brown,godrejboyce267@gmail.com,6518215638,Pune,India,3.5,8,Active,Furniture
+268,Blue Star ,Manufacturer,Kurt Cook,bluestar268@gmail.com,6326670009,Pune,India,4.9,4,Inactive,Appliances
+269,Crompton Greaves ,Manufacturer,Jacqueline Stanley,cromptongreaves269@gmail.com,8948091418,Delhi,India,4.8,3,Active,Appliances
+270,Dixon Technologies ,Manufacturer,Lisa Guerra,dixontechnologies270@gmail.com,6630414521,Mumbai,India,5,7,Active,Electronics
+271,Havells India ,Manufacturer,Jay Kennedy,havellsindia271@gmail.com,6984179827,Noida,India,3.9,8,Active,Appliances
+272,TVS Supply Chain ,Distributor,Mr. Andre Reyes MD,tvssupplychain272@gmail.com,6824694431,Delhi,India,4.7,6,Active,Logistics
+273,Dixon Technologies ,Manufacturer,Alan Moran,dixontechnologies273@gmail.com,8799363857,Chennai,India,3.5,7,Active,Electronics
+274,Voltas ,Manufacturer,Daniel Nelson,voltas274@gmail.com,8977403533,Noida,India,4,6,Active,Appliances
+275,Godrej & Boyce ,Manufacturer,Leah Bell,godrejboyce275@gmail.com,9960523585,Bengaluru,India,4.7,7,Active,Furniture
+276,Xiaomi ,Manufacturer,Alejandro Pope,xiaomi276@gmail.com,19844340028,Shenzhen,China,4.4,15,Active,Electronics
+277,Continental ,Manufacturer,Audrey Roth,continental277@gmail.com,01519570867,Frankfurt,Germany,4.4,29,Active,Automotive
+278,Blue Star ,Manufacturer,Christina Bell,bluestar278@gmail.com,8183265523,Delhi,India,4.6,7,Inactive,Appliances
+279,Epson ,Manufacturer,Rachel Taylor,epson279@gmail.com,09094817426,Tokyo,Japan,4.4,12,Active,Office Supplies
+280,Midea ,Manufacturer,John Webb,midea280@gmail.com,13706891769,Beijing,China,4.9,27,Active,Appliances
+281,BYD ,Manufacturer,Danielle White,byd281@gmail.com,15064991677,Shenzhen,China,4.9,34,Active,Automotive
+282,Blue Star ,Manufacturer,Dwayne Glenn,bluestar282@gmail.com,8545688965,Bengaluru,India,4.4,7,Active,Appliances
+283,Godrej & Boyce ,Manufacturer,Michael Harris,godrejboyce283@gmail.com,6767428426,Mumbai,India,4.8,9,Active,Furniture
+284,Godrej & Boyce ,Manufacturer,Heather Harris,godrejboyce284@gmail.com,9931559353,Delhi,India,4.1,6,Active,Furniture
+285,Bharat Forge ,Manufacturer,Kimberly Vargas,bharatforge285@gmail.com,9000497484,Delhi,India,4.2,6,Active,Automotive
+286,Dixon Technologies ,Manufacturer,Tommy Williams,dixontechnologies286@gmail.com,9886675095,Chennai,India,5,3,Active,Electronics
+287,Voltas ,Manufacturer,Alex Decker,voltas287@gmail.com,9018316586,Mumbai,India,3.8,3,Active,Appliances
+288,Havells India ,Manufacturer,Rhonda Carney,havellsindia288@gmail.com,7367679958,Pune,India,3.5,4,Inactive,Appliances
+289,Dixon Technologies ,Manufacturer,William Young,dixontechnologies289@gmail.com,6255514821,Noida,India,4.6,6,Active,Electronics
+290,Blue Star ,Manufacturer,Brenda Sanchez,bluestar290@gmail.com,8586284838,Chennai,India,5,9,Active,Appliances
+291,Havells India ,Manufacturer,Natasha Santos,havellsindia291@gmail.com,7620991590,Noida,India,4.9,10,Active,Appliances
+292,Havells India ,Manufacturer,John Adams,havellsindia292@gmail.com,9004804619,Bengaluru,India,4.1,10,Active,Appliances
+293,Bharat Forge ,Manufacturer,Scott Chambers,bharatforge293@gmail.com,6032789488,Chennai,India,4.8,5,Active,Automotive
+294,Godrej & Boyce ,Manufacturer,Anthony James,godrejboyce294@gmail.com,7936912288,Pune,India,4.1,7,Active,Furniture
+295,Midea ,Manufacturer,Seth Dickson,midea295@gmail.com,13701128779,Shenzhen,China,4.7,30,Active,Appliances
+296,Hitachi ,Manufacturer,Jenna Koch,hitachi296@gmail.com,08000952354,Osaka,Japan,3.6,17,Active,Industrial
+297,Apple ,Manufacturer,Victor Harding,apple297@gmail.com,3052419153,Austin,USA,4,18,Active,Electronics
+298,Siemens ,Manufacturer,Kimberly Gomez,siemens298@gmail.com,01609600369,Frankfurt,Germany,3.4,23,Active,Industrial
+299,Hyundai Mobis ,Manufacturer,Andrea Campbell,hyundaimobis299@gmail.com,01007093330,Busan,South Korea,5,13,Active,Automotive
+300,Godrej & Boyce ,Manufacturer,Stacy Williams,godrejboyce300@gmail.com,7925074694,Bengaluru,India,4.9,8,Active,Furniture
+301,Continental ,Manufacturer,Cody Johnson,continental301@gmail.com,01601369364,Berlin,Germany,4.6,23,Active,Automotive
+302,Crompton Greaves ,Manufacturer,Beverly Garcia,cromptongreaves302@gmail.com,9703122562,Noida,India,4.3,2,Active,Appliances
+303,Midea ,Manufacturer,Keith Ortiz,midea303@gmail.com,13046851586,Shenzhen,China,4.8,22,Active,Appliances
+304,Xiaomi ,Manufacturer,Dawn Ramos,xiaomi304@gmail.com,17861165836,Beijing,China,4.5,15,Active,Electronics
+305,TVS Supply Chain ,Distributor,Daniel Osborne,tvssupplychain305@gmail.com,7745360405,Chennai,India,4.7,8,Active,Logistics
+306,Tata Electronics ,Manufacturer,Adam Thompson,tataelectronics306@gmail.com,7321348287,Chennai,India,4.3,4,Active,Electronics
+307,Havells India ,Manufacturer,Christine Zamora,havellsindia307@gmail.com,9325536693,Hyderabad,India,4.7,7,Inactive,Appliances
+308,Bharat Forge ,Manufacturer,Tracy Yang,bharatforge308@gmail.com,8783372497,Noida,India,4.1,7,Active,Automotive
+309,Godrej & Boyce ,Manufacturer,Sarah Gomez,godrejboyce309@gmail.com,8836983218,Mumbai,India,4.7,7,Active,Furniture
+310,Huawei ,Manufacturer,Luke Jones,huawei310@gmail.com,13684609240,Guangzhou,China,3.9,26,Active,Electronics
+311,Blue Star ,Manufacturer,David Martinez,bluestar311@gmail.com,9123531185,Pune,India,3.5,9,Active,Appliances
+312,Voltas ,Manufacturer,Robin Abbott,voltas312@gmail.com,8314134264,Bengaluru,India,3.4,9,Active,Appliances
+313,Havells India ,Manufacturer,Benjamin Moore,havellsindia313@gmail.com,8672420556,Chennai,India,4.7,5,Active,Appliances
+314,Blue Star ,Manufacturer,Ms. Stephanie Elliott,bluestar314@gmail.com,6736512414,Mumbai,India,4,5,Inactive,Appliances
+315,Crompton Greaves ,Manufacturer,Jason Gould,cromptongreaves315@gmail.com,7060926342,Mumbai,India,3.7,10,Active,Appliances
+316,DP World ,Distributor,Deanna Perez,dpworld316@gmail.com,0550842939,Dubai,UAE,3.5,15,Active,Logistics
+317,VinFast ,Manufacturer,Susan Brown,vinfast317@gmail.com,0818469501,Hanoi,Vietnam,4.1,21,Active,Automotive
+318,Godrej & Boyce ,Manufacturer,Lynn Boone,godrejboyce318@gmail.com,8099031053,Noida,India,3.6,8,Active,Furniture
+319,Dixon Technologies ,Manufacturer,Jackson Stephens,dixontechnologies319@gmail.com,8166934815,Noida,India,3.9,7,Active,Electronics
+320,Viettel ,Manufacturer,Vanessa Robertson,viettel320@gmail.com,0996758780,Hanoi,Vietnam,3.4,22,Active,Industrial
+321,Cisco ,Manufacturer,Julie Shaw MD,cisco321@gmail.com,7185682730,San Jose,USA,3.8,18,Active,Electronics
+322,Voltas ,Manufacturer,Gail Tapia,voltas322@gmail.com,8282384302,Hyderabad,India,4,8,Active,Appliances
+323,Havells India ,Manufacturer,John Brown,havellsindia323@gmail.com,8561342277,Bengaluru,India,4.6,9,Active,Appliances
+324,Hitachi ,Manufacturer,Sarah Harrell DVM,hitachi324@gmail.com,07030872542,Osaka,Japan,4,13,Active,Industrial
+325,Viettel ,Manufacturer,Nancy Collins,viettel325@gmail.com,0972993518,Ho Chi Minh City,Vietnam,4.1,17,Active,Industrial
+326,Haier ,Manufacturer,Kathryn Williams,haier326@gmail.com,18622976314,Shenzhen,China,4.2,24,Active,Appliances
+327,Bharat Forge ,Manufacturer,Bridget Stanley,bharatforge327@gmail.com,6573004431,Hyderabad,India,3.9,4,Active,Automotive
+328,Haier ,Manufacturer,Catherine Rocha,haier328@gmail.com,17671257795,Guangzhou,China,3.3,28,Active,Appliances
+329,SK hynix ,Manufacturer,Amanda Warner,skhynix329@gmail.com,01042810077,Busan,South Korea,4.3,24,Active,Electronics
+330,Bosch ,Manufacturer,Brett Horton,bosch330@gmail.com,01515941767,Munich,Germany,3.8,30,Active,Appliances
+331,Crompton Greaves ,Manufacturer,Rebecca Ellison,cromptongreaves331@gmail.com,7850514943,Hyderabad,India,4.9,7,Active,Appliances
+332,MSI ,Manufacturer,Victoria Parker,msi332@gmail.com,0912006245,Taichung,Taiwan,3.9,12,Active,Electronics
+333,LG Electronics ,Manufacturer,Dylan Patterson,lgelectronics333@gmail.com,01028214956,Seoul,South Korea,4.3,17,Active,Electronics
+334,Canon ,Manufacturer,Tracy Glover,canon334@gmail.com,07055352854,Tokyo,Japan,4.7,14,Active,Office Supplies
+335,Viettel ,Manufacturer,Megan Sharp DDS,viettel335@gmail.com,0390019603,Hanoi,Vietnam,3.7,14,Active,Industrial
+336,Viettel ,Manufacturer,Gregory Baker,viettel336@gmail.com,0816724991,Ho Chi Minh City,Vietnam,4.3,28,Active,Industrial
+337,Intel ,Manufacturer,Tammy Franklin,intel337@gmail.com,3055227610,San Jose,USA,3.3,29,Active,Electronics
+338,Tata Electronics ,Manufacturer,Joshua Rhodes,tataelectronics338@gmail.com,9733500986,Delhi,India,3.5,4,Active,Electronics
+339,Voltas ,Manufacturer,Michael Nichols,voltas339@gmail.com,7410865170,Hyderabad,India,3.6,7,Active,Appliances
+340,Crompton Greaves ,Manufacturer,Brenda Porter,cromptongreaves340@gmail.com,7264079593,Bengaluru,India,3.6,10,Active,Appliances
+341,TCL ,Manufacturer,Larry Lee,tcl341@gmail.com,18918587682,Shenzhen,China,4.4,23,Active,Appliances
+342,MSI ,Manufacturer,Jorge Dennis,msi342@gmail.com,0969910594,Taipei,Taiwan,4.2,13,Active,Electronics
+343,Dixon Technologies ,Manufacturer,Francisco Harper,dixontechnologies343@gmail.com,9572458033,Hyderabad,India,4,9,Inactive,Electronics
+344,Huawei ,Manufacturer,Mitchell Hodges,huawei344@gmail.com,18712958965,Beijing,China,3.4,24,Active,Electronics
+345,Panasonic ,Manufacturer,Ryan Barron,panasonic345@gmail.com,09039764132,Nagoya,Japan,3.9,20,Active,Appliances
+346,BYD ,Manufacturer,Jeffery Boyer,byd346@gmail.com,15781341384,Shenzhen,China,3.3,15,Active,Automotive
+347,Viettel ,Manufacturer,Wesley Davis,viettel347@gmail.com,0897387389,Hanoi,Vietnam,3.4,21,Active,Industrial
+348,Qualcomm ,Manufacturer,Marcus Morris,qualcomm348@gmail.com,9173899161,Austin,USA,3.5,28,Active,Electronics
+349,Sharp ,Manufacturer,James White,sharp349@gmail.com,08028881817,Nagoya,Japan,4.1,10,Inactive,Industrial
+350,Voltas ,Manufacturer,John Sanchez,voltas350@gmail.com,9823971259,Hyderabad,India,3.5,7,Active,Appliances
+351,Emirates Logistics ,Distributor,Jason Estrada,emirateslogistics351@gmail.com,0506305009,Abu Dhabi,UAE,4.4,9,Inactive,Logistics
+352,Godrej & Boyce ,Manufacturer,Devin Rogers,godrejboyce352@gmail.com,7741261939,Delhi,India,3.2,5,Active,Furniture
+353,Godrej & Boyce ,Manufacturer,Shane Howard,godrejboyce353@gmail.com,6525504135,Noida,India,4.4,6,Active,Furniture
+354,Crompton Greaves ,Manufacturer,Derek Carlson,cromptongreaves354@gmail.com,8709515859,Hyderabad,India,3.4,8,Active,Appliances
+355,Havells India ,Manufacturer,Deborah Williams,havellsindia355@gmail.com,6034537097,Mumbai,India,4.9,10,Active,Appliances
+356,Xiaomi ,Manufacturer,Kyle Bailey,xiaomi356@gmail.com,13807114228,Guangzhou,China,4.7,33,Active,Electronics
+357,TVS Supply Chain ,Distributor,Amanda Fox,tvssupplychain357@gmail.com,8629484700,Pune,India,3.5,7,Active,Logistics
+358,TVS Supply Chain ,Distributor,Bridget Clements,tvssupplychain358@gmail.com,8278700129,Hyderabad,India,4.9,10,Active,Logistics
+359,SK hynix ,Manufacturer,Amber Wright,skhynix359@gmail.com,01096727639,Busan,South Korea,4.1,20,Active,Electronics
+360,Bosch ,Manufacturer,Dan Long,bosch360@gmail.com,01701558342,Munich,Germany,3.2,29,Active,Appliances
+361,Reliance Retail ,Distributor,Leroy Cox,relianceretail361@gmail.com,6325759765,Chennai,India,3.7,6,Active,Fashion
+362,Epson ,Manufacturer,Rebecca Williams,epson362@gmail.com,08005975303,Nagoya,Japan,4,12,Active,Office Supplies
+363,ZF Friedrichshafen ,Manufacturer,Gregory Mcbride,zffriedrichshafen363@gmail.com,01609022464,Berlin,Germany,4.3,28,Active,Automotive
+364,MSI ,Manufacturer,Todd May,msi364@gmail.com,0918459989,Taipei,Taiwan,3.3,22,Active,Electronics
+365,Crompton Greaves ,Manufacturer,Anthony Aguilar,cromptongreaves365@gmail.com,7081369154,Noida,India,4.8,5,Active,Appliances
+366,Gigabyte ,Manufacturer,Tamara Stevens,gigabyte366@gmail.com,0932145583,Taichung,Taiwan,4.3,25,Active,Electronics
+367,VinFast ,Manufacturer,Ivan Fisher,vinfast367@gmail.com,0768650557,Hanoi,Vietnam,3.5,17,Active,Automotive
+368,Blue Star ,Manufacturer,Danielle Kim,bluestar368@gmail.com,8335223076,Mumbai,India,3.2,8,Active,Appliances
+369,BYD ,Manufacturer,Alex Johnson,byd369@gmail.com,18769429124,Guangzhou,China,3.5,34,Active,Automotive
+370,Midea ,Manufacturer,Heather Alvarez,midea370@gmail.com,17649851391,Shenzhen,China,4.5,23,Active,Appliances
+371,Midea ,Manufacturer,Dale Glass,midea371@gmail.com,15249575617,Beijing,China,3.9,20,Active,Appliances
+372,VinFast ,Manufacturer,Kristopher Winters,vinfast372@gmail.com,0702448024,Hanoi,Vietnam,4.2,22,Active,Automotive
+373,Bharat Forge ,Manufacturer,Tyler Hicks,bharatforge373@gmail.com,7030673948,Chennai,India,4,7,Inactive,Automotive
+374,Qualcomm ,Manufacturer,Ashley Murray,qualcomm374@gmail.com,7183330290,New York,USA,3.8,26,Active,Electronics
+375,Viettel ,Manufacturer,Christopher Jackson,viettel375@gmail.com,0341952034,Ho Chi Minh City,Vietnam,4.3,22,Active,Industrial
+376,Havells India ,Manufacturer,Gary Butler,havellsindia376@gmail.com,6503550769,Noida,India,4.7,7,Active,Appliances
+377,Emirates Logistics ,Distributor,Larry Rivera,emirateslogistics377@gmail.com,0585206019,Dubai,UAE,3.2,17,Active,Logistics
+378,Huawei ,Manufacturer,Alex Ross,huawei378@gmail.com,17879647005,Shenzhen,China,3.6,29,Inactive,Electronics
+379,Godrej & Boyce ,Manufacturer,Ashley Tyler,godrejboyce379@gmail.com,8069521023,Pune,India,3.6,9,Active,Furniture
+380,Blue Star ,Manufacturer,Nicholas Jordan,bluestar380@gmail.com,7815565898,Bengaluru,India,4,9,Active,Appliances
+381,Bharat Forge ,Manufacturer,Frances Powell,bharatforge381@gmail.com,7995394704,Chennai,India,3.4,4,Active,Automotive
+382,Crompton Greaves ,Manufacturer,Sarah Gonzales,cromptongreaves382@gmail.com,9845884240,Pune,India,4.4,6,Active,Appliances
+383,Viettel ,Manufacturer,Robert Wilson,viettel383@gmail.com,0837152361,Ho Chi Minh City,Vietnam,3.2,13,Active,Industrial
+384,Blue Star ,Manufacturer,Sherry Wright,bluestar384@gmail.com,6921088382,Noida,India,4.5,2,Active,Appliances
+385,Godrej & Boyce ,Manufacturer,Abigail Smith,godrejboyce385@gmail.com,8952228053,Hyderabad,India,4.8,9,Active,Furniture
+386,BOE Technology ,Manufacturer,David Schmidt,boetechnology386@gmail.com,18773567350,Guangzhou,China,4,28,Active,Electronics
+387,Blue Star ,Manufacturer,Cameron Meyer,bluestar387@gmail.com,6016503966,Chennai,India,3.4,8,Active,Appliances
+388,Epson ,Manufacturer,Corey Friedman,epson388@gmail.com,08030404633,Osaka,Japan,4,11,Active,Office Supplies
+389,Hitachi ,Manufacturer,Brenda Jackson,hitachi389@gmail.com,08035644739,Tokyo,Japan,3.5,11,Active,Industrial
+390,MSI ,Manufacturer,Jillian Anderson,msi390@gmail.com,0927424415,Taipei,Taiwan,3.7,28,Active,Electronics
+391,BYD ,Manufacturer,Anthony Barnes,byd391@gmail.com,13073259973,Shenzhen,China,4.5,19,Active,Automotive
+392,Dixon Technologies ,Manufacturer,Amy Adkins,dixontechnologies392@gmail.com,6350726240,Pune,India,3.9,7,Active,Electronics
+393,Bosch ,Manufacturer,Diane Blake,bosch393@gmail.com,01721202428,Frankfurt,Germany,3.5,27,Active,Appliances
+394,Crompton Greaves ,Manufacturer,Erika Crosby,cromptongreaves394@gmail.com,8127616565,Chennai,India,3.8,10,Active,Appliances
+395,MSI ,Manufacturer,Tiffany Jensen,msi395@gmail.com,0909330028,Taichung,Taiwan,3.3,17,Active,Electronics
+396,Bharat Forge ,Manufacturer,Noah Wilson,bharatforge396@gmail.com,7961005111,Bengaluru,India,4.3,3,Active,Automotive
+397,Intel ,Manufacturer,Scott Schneider,intel397@gmail.com,6174860238,Seattle,USA,3.8,31,Active,Electronics
+398,Reliance Retail ,Distributor,Kim Baker,relianceretail398@gmail.com,7881857153,Mumbai,India,4.2,8,Active,Fashion
+399,Haier ,Manufacturer,Eric Hoffman,haier399@gmail.com,15914204410,Shenzhen,China,4.2,24,Active,Appliances
+400,Crompton Greaves ,Manufacturer,Jordan Johnson,cromptongreaves400@gmail.com,7806854050,Noida,India,4.8,9,Active,Appliances
+401,VinFast ,Manufacturer,James Mcdonald,vinfast401@gmail.com,0867848564,Ho Chi Minh City,Vietnam,3.9,15,Active,Automotive
+402,Blue Star ,Manufacturer,Chase Bridges,bluestar402@gmail.com,9658662666,Mumbai,India,4,7,Active,Appliances
+403,LG Electronics ,Manufacturer,Mary Owens,lgelectronics403@gmail.com,01020398496,Seoul,South Korea,4.5,12,Active,Electronics
+404,Foxconn ,Manufacturer,Amy Moore,foxconn404@gmail.com,0933119006,Taichung,Taiwan,4.9,18,Active,Electronics
+405,Crompton Greaves ,Manufacturer,Kenneth Macdonald,cromptongreaves405@gmail.com,8785790778,Noida,India,4.5,3,Active,Appliances
+406,Reliance Retail ,Distributor,Virginia Torres,relianceretail406@gmail.com,8986365168,Bengaluru,India,4.1,3,Active,Fashion
+407,Viettel ,Manufacturer,Yolanda Hancock,viettel407@gmail.com,0569518394,Hanoi,Vietnam,3.3,26,Active,Industrial
+408,Apple ,Manufacturer,Katelyn Snow,apple408@gmail.com,4089589793,Austin,USA,4.2,33,Active,Electronics
+409,Haier ,Manufacturer,Elizabeth Ross,haier409@gmail.com,15018583825,Guangzhou,China,4.3,23,Active,Appliances
+410,Dixon Technologies ,Manufacturer,Rebecca Ward,dixontechnologies410@gmail.com,7227205656,Mumbai,India,4.4,7,Active,Electronics
+411,TCL ,Manufacturer,Michelle Reid,tcl411@gmail.com,13862461558,Beijing,China,3.3,23,Active,Appliances
+412,Continental ,Manufacturer,Brittany Martin,continental412@gmail.com,01704714647,Berlin,Germany,3.6,26,Active,Automotive
+413,TVS Supply Chain ,Distributor,Michael Perez,tvssupplychain413@gmail.com,6772820257,Bengaluru,India,4.6,7,Active,Logistics
+414,Godrej & Boyce ,Manufacturer,Maria Holt,godrejboyce414@gmail.com,7958564083,Hyderabad,India,4.9,6,Active,Furniture
+415,SAP ,Manufacturer,Stephen Davis,sap415@gmail.com,01519409248,Berlin,Germany,3.7,15,Active,Industrial
+416,Bosch ,Manufacturer,Victor Barrett,bosch416@gmail.com,01575434718,Berlin,Germany,3.5,22,Active,Appliances
+417,TVS Supply Chain ,Distributor,Kim Moss,tvssupplychain417@gmail.com,9132649507,Bengaluru,India,3.9,9,Active,Logistics
+418,Xiaomi ,Manufacturer,Jennifer Graham,xiaomi418@gmail.com,18250466945,Shenzhen,China,3.7,33,Active,Electronics
+419,Reliance Retail ,Distributor,Kimberly Zimmerman,relianceretail419@gmail.com,7692939513,Noida,India,3.4,3,Active,Fashion
+420,Sharp ,Manufacturer,Tony Robinson,sharp420@gmail.com,08011766867,Nagoya,Japan,3.7,24,Active,Industrial
+421,Godrej & Boyce ,Manufacturer,Katelyn Archer,godrejboyce421@gmail.com,6199776672,Delhi,India,4.5,3,Active,Furniture
+422,Godrej & Boyce ,Manufacturer,Lisa Martinez,godrejboyce422@gmail.com,6767280336,Mumbai,India,3.9,5,Active,Furniture
+423,Sharp ,Manufacturer,Gina Sawyer MD,sharp423@gmail.com,09004856711,Osaka,Japan,4.6,22,Active,Industrial
+424,Toshiba ,Manufacturer,Dana Rowland,toshiba424@gmail.com,07019017139,Nagoya,Japan,3.4,11,Active,Industrial
+425,Midea ,Manufacturer,Kerry Evans,midea425@gmail.com,18803570869,Shenzhen,China,4.6,32,Inactive,Appliances
+426,TVS Supply Chain ,Distributor,Laura Black,tvssupplychain426@gmail.com,7602553802,Hyderabad,India,3.9,9,Active,Logistics
+427,Jumbo Electronics ,Distributor,Jared Oliver,jumboelectronics427@gmail.com,0564841564,Abu Dhabi,UAE,4.1,15,Active,Electronics
+428,Dixon Technologies ,Manufacturer,Jared Reyes,dixontechnologies428@gmail.com,8868604436,Hyderabad,India,3.9,10,Active,Electronics
+429,Voltas ,Manufacturer,Robert Adams,voltas429@gmail.com,9844320385,Hyderabad,India,3.5,2,Active,Appliances
+430,Hyundai Mobis ,Manufacturer,Philip Anderson,hyundaimobis430@gmail.com,01077925537,Busan,South Korea,3.8,21,Active,Automotive
+431,Samsung Electronics ,Manufacturer,Travis Miller,samsungelectronics431@gmail.com,01080508169,Seoul,South Korea,5,11,Active,Electronics
+432,Acer ,Manufacturer,Kristy Neal,acer432@gmail.com,0950437433,Taipei,Taiwan,3.4,15,Active,Electronics
+433,Tata Electronics ,Manufacturer,Stephanie Johnson,tataelectronics433@gmail.com,9673302610,Pune,India,4.7,8,Active,Electronics
+434,Haier ,Manufacturer,Nicole Jones,haier434@gmail.com,13919720827,Beijing,China,4.2,18,Active,Appliances
+435,Blue Star ,Manufacturer,Jeanne Madden,bluestar435@gmail.com,7438223817,Delhi,India,4.9,10,Active,Appliances
+436,Blue Star ,Manufacturer,Shawn Wade,bluestar436@gmail.com,6310634762,Delhi,India,4.2,10,Active,Appliances
+437,Canon ,Manufacturer,Ashley Wong,canon437@gmail.com,07020274395,Tokyo,Japan,3.9,14,Active,Office Supplies
+438,Emirates Logistics ,Distributor,John Green,emirateslogistics438@gmail.com,0588244583,Dubai,UAE,3.4,8,Active,Logistics
+439,Midea ,Manufacturer,Melissa Cole,midea439@gmail.com,15036056243,Shenzhen,China,4,23,Active,Appliances
+440,Qualcomm ,Manufacturer,Donna Jones,qualcomm440@gmail.com,7183372265,New York,USA,4.8,27,Active,Electronics
+441,Bharat Forge ,Manufacturer,Megan Nixon,bharatforge441@gmail.com,9105138814,Pune,India,3.8,8,Active,Automotive
+442,Viettel ,Manufacturer,Brenda Jones,viettel442@gmail.com,0815071374,Ho Chi Minh City,Vietnam,4.5,17,Active,Industrial
+443,Dixon Technologies ,Manufacturer,Frank Robinson,dixontechnologies443@gmail.com,8998132743,Bengaluru,India,4.7,4,Active,Electronics
+444,TVS Supply Chain ,Distributor,Nicole Rodriguez,tvssupplychain444@gmail.com,8099105324,Delhi,India,4.3,8,Active,Logistics
+445,Dixon Technologies ,Manufacturer,Nicole Moore,dixontechnologies445@gmail.com,6255773552,Mumbai,India,4.6,8,Active,Electronics
+446,Voltas ,Manufacturer,Patricia Walter,voltas446@gmail.com,6418718129,Noida,India,3.4,2,Inactive,Appliances
+447,Godrej & Boyce ,Manufacturer,Sophia Davis,godrejboyce447@gmail.com,9700089162,Bengaluru,India,4.3,7,Active,Furniture
+448,Tata Electronics ,Manufacturer,Cody Barnes,tataelectronics448@gmail.com,9951525215,Pune,India,3.7,4,Active,Electronics
+449,TVS Supply Chain ,Distributor,Katherine Stafford,tvssupplychain449@gmail.com,6742411312,Bengaluru,India,4.7,5,Active,Logistics
+450,Asus ,Manufacturer,Paul Dean,asus450@gmail.com,0974881573,Taipei,Taiwan,4.4,21,Active,Electronics
+451,Panasonic ,Manufacturer,Stephanie Hampton,panasonic451@gmail.com,07098084534,Tokyo,Japan,3.2,13,Active,Appliances
+452,Dixon Technologies ,Manufacturer,Victor Johnson,dixontechnologies452@gmail.com,9832388310,Bengaluru,India,3.6,7,Inactive,Electronics
+453,Reliance Retail ,Distributor,Tracey Freeman,relianceretail453@gmail.com,6079331224,Noida,India,3.8,9,Active,Fashion
+454,Blue Star ,Manufacturer,Debra Brown,bluestar454@gmail.com,6669814911,Delhi,India,4,7,Inactive,Appliances
+455,Crompton Greaves ,Manufacturer,Kevin Anderson,cromptongreaves455@gmail.com,7339803195,Noida,India,4.6,7,Active,Appliances
+456,LG Electronics ,Manufacturer,Stephanie Jennings,lgelectronics456@gmail.com,01010392451,Busan,South Korea,4.4,11,Active,Electronics
+457,SK hynix ,Manufacturer,Jorge Watson,skhynix457@gmail.com,01079205660,Seoul,South Korea,4.8,23,Active,Electronics
+458,Bharat Forge ,Manufacturer,Dylan Flores,bharatforge458@gmail.com,6328225233,Pune,India,4.8,7,Active,Automotive
+459,Xiaomi ,Manufacturer,Robert Pham,xiaomi459@gmail.com,15951070785,Guangzhou,China,4.1,27,Active,Electronics
+460,Midea ,Manufacturer,Sheena Peters,midea460@gmail.com,13591305615,Shenzhen,China,4.7,25,Active,Appliances
+461,Lenovo ,Manufacturer,Alexander Dunn,lenovo461@gmail.com,15177244079,Shenzhen,China,4.8,30,Inactive,Electronics
+462,Godrej & Boyce ,Manufacturer,Christina Collins,godrejboyce462@gmail.com,7668498114,Bengaluru,India,3.8,8,Active,Furniture
+463,HP ,Manufacturer,Gary Nixon,hp463@gmail.com,3125397837,Austin,USA,4.8,35,Active,Electronics
+464,Crompton Greaves ,Manufacturer,Thomas English,cromptongreaves464@gmail.com,6665661359,Bengaluru,India,3.5,4,Active,Appliances
+465,Godrej & Boyce ,Manufacturer,Elizabeth Ramirez,godrejboyce465@gmail.com,9404790176,Mumbai,India,4.5,9,Active,Furniture
+466,Crompton Greaves ,Manufacturer,Jennifer Frank,cromptongreaves466@gmail.com,9947258315,Hyderabad,India,3.7,3,Active,Appliances
+467,Bosch ,Manufacturer,Aaron Johnson,bosch467@gmail.com,01607904514,Frankfurt,Germany,4.8,28,Active,Appliances
+468,Asus ,Manufacturer,Tracy Vazquez,asus468@gmail.com,0927683130,Taichung,Taiwan,4.5,13,Inactive,Electronics
+469,LG Electronics ,Manufacturer,Julie Kim,lgelectronics469@gmail.com,01062645252,Busan,South Korea,4.2,23,Active,Electronics
+470,Crompton Greaves ,Manufacturer,Cindy Lopez,cromptongreaves470@gmail.com,7596475893,Noida,India,3.8,6,Active,Appliances
+471,Sharp ,Manufacturer,Dorothy Pope,sharp471@gmail.com,07068002137,Tokyo,Japan,4.6,12,Active,Industrial
+472,Tata Electronics ,Manufacturer,Steve Robbins,tataelectronics472@gmail.com,8518862461,Mumbai,India,3.7,4,Active,Electronics
+473,TVS Supply Chain ,Distributor,Donald Carter,tvssupplychain473@gmail.com,8744546807,Hyderabad,India,4.9,8,Active,Logistics
+474,Xiaomi ,Manufacturer,Timothy Mathews,xiaomi474@gmail.com,19850018674,Shanghai,China,3.8,25,Active,Electronics
+475,VinFast ,Manufacturer,Heather Montes,vinfast475@gmail.com,0918297057,Hanoi,Vietnam,4.7,21,Active,Automotive
+476,Crompton Greaves ,Manufacturer,Megan Graves,cromptongreaves476@gmail.com,7042399806,Mumbai,India,4.6,7,Active,Appliances
+477,SAP ,Manufacturer,John Roberts,sap477@gmail.com,01529434806,Munich,Germany,3.3,23,Active,Industrial
+478,Blue Star ,Manufacturer,Samuel Deleon,bluestar478@gmail.com,9167545297,Delhi,India,3.3,4,Active,Appliances
+479,Crompton Greaves ,Manufacturer,Matthew Fuller,cromptongreaves479@gmail.com,6852380248,Mumbai,India,4.3,2,Active,Appliances
+480,Viettel ,Manufacturer,Brittany Nguyen,viettel480@gmail.com,0374094652,Hanoi,Vietnam,3.8,26,Active,Industrial
+481,Samsung Electronics ,Manufacturer,Maxwell Mayer,samsungelectronics481@gmail.com,01044739576,Busan,South Korea,4.7,25,Active,Electronics
+482,MSI ,Manufacturer,Gary Blair,msi482@gmail.com,0914565674,Taichung,Taiwan,3.8,21,Inactive,Electronics
+483,DP World ,Distributor,Colleen Spears,dpworld483@gmail.com,0503978625,Abu Dhabi,UAE,3.5,17,Active,Logistics
+484,Haier ,Manufacturer,Darrell Brown,haier484@gmail.com,13224878614,Beijing,China,3.7,33,Active,Appliances
+485,Blue Star ,Manufacturer,Wendy Alvarez,bluestar485@gmail.com,9568414700,Pune,India,4.7,6,Inactive,Appliances
+486,Asus ,Manufacturer,Marcus Ford,asus486@gmail.com,0989459543,Taichung,Taiwan,4.1,23,Inactive,Electronics
+487,VinFast ,Manufacturer,Jonathan Martinez,vinfast487@gmail.com,0971819614,Ho Chi Minh City,Vietnam,3.3,29,Active,Automotive
+488,Havells India ,Manufacturer,Dr. Michael Richardson,havellsindia488@gmail.com,7216656675,Noida,India,3.7,6,Active,Appliances
+489,Tata Electronics ,Manufacturer,Kara Chung,tataelectronics489@gmail.com,8228864235,Delhi,India,3.2,8,Active,Electronics
+490,Hoa Phat Group ,Manufacturer,Reginald Jones,hoaphatgroup490@gmail.com,0881618093,Hanoi,Vietnam,4.4,17,Active,Industrial
+491,Tata Electronics ,Manufacturer,Kenneth Murray,tataelectronics491@gmail.com,9639422338,Delhi,India,4.9,10,Active,Electronics
+492,Voltas ,Manufacturer,Shelby Scott,voltas492@gmail.com,6406426941,Noida,India,4.1,8,Active,Appliances
+493,Midea ,Manufacturer,Kathryn Moore,midea493@gmail.com,19949334159,Beijing,China,4.6,32,Active,Appliances
+494,Voltas ,Manufacturer,Mr. Seth Jimenez MD,voltas494@gmail.com,6508115307,Chennai,India,4.4,2,Active,Appliances
+495,Voltas ,Manufacturer,Susan Wilson,voltas495@gmail.com,7748079890,Noida,India,3.4,10,Active,Appliances
+496,Haier ,Manufacturer,Paul Shaw,haier496@gmail.com,13287173455,Shenzhen,China,4.6,29,Active,Appliances
+497,Gigabyte ,Manufacturer,Erik Vaughn,gigabyte497@gmail.com,0989338349,Taipei,Taiwan,4.3,23,Active,Electronics
+498,VinFast ,Manufacturer,Robin Kerr,vinfast498@gmail.com,0830320846,Hanoi,Vietnam,4.9,14,Active,Automotive
+499,VinFast ,Manufacturer,Nicholas Hayden,vinfast499@gmail.com,0761419166,Hanoi,Vietnam,4.9,30,Inactive,Automotive
+500,Hitachi ,Manufacturer,Sara Evans,hitachi500@gmail.com,09096305854,Osaka,Japan,3.3,19,Active,Industrial

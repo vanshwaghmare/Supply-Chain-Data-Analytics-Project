@@ -1,0 +1,26 @@
+warehouse_id,warehouse_name,city,state,country,warehouse_type,storage_capacity,manager_name,contact_number,status
+1,Delhi Warehouse,Delhi,Delhi,India,Distribution Center,226016,Rayaan Jani,9876543210,Active
+2,Mumbai Warehouse,Mumbai,Maharashtra,India,Distribution Center,159976,Fiyaz Thaker,9134576821,Active
+3,Bengaluru Warehouse,Bengaluru,Karnataka,India,Regional Warehouse,142257,Quincy Varughese,9882720559,Active
+4,Hyderabad Warehouse,Hyderabad,Telangana,India,Distribution Center,261524,Anvi Kuruvilla,9161837452,Active
+5,Chennai Warehouse,Chennai,Tamil Nadu,India,Fulfillment Center,222309,Aarush Jaggi,9189073615,Active
+6,Pune Warehouse,Pune,Maharashtra,India,Fulfillment Center,107693,Eiravati Bedi,9452278060,Active
+7,Kolkata Warehouse,Kolkata,West Bengal,India,Distribution Center,217199,Laksh Kota,8241098252,Active
+8,Ahmedabad Warehouse,Ahmedabad,Gujarat,India,Fulfillment Center,172172,Tamanna Dugar,9573446359,Active
+9,Jaipur Warehouse,Jaipur,Rajasthan,India,Regional Warehouse,134815,Umang Modi,8678018963,Active
+10,Lucknow Warehouse,Lucknow,Uttar Pradesh,India,Fulfillment Center,260034,Odika Prakash,9214844152,Active
+11,Indore Warehouse,Indore,Madhya Pradesh,India,Fulfillment Center,96033,Arin Dani,9887910473,Active
+12,Bhopal Warehouse,Bhopal,Madhya Pradesh,India,Distribution Center,63654,Maya Mandal,7840573510,Active
+13,Surat Warehouse,Surat,Gujarat,India,Fulfillment Center,200464,Jatin Raghavan,9121396847,Active
+14,Nagpur Warehouse,Nagpur,Maharashtra,India,Distribution Center,115778,Suhani Chakrabarti,9143685209,Active
+15,Patna Warehouse,Patna,Bihar,India,Fulfillment Center,285219,Dalbir Balasubramanian,8170701988,Active
+16,Raipur Warehouse,Raipur,Chhattisgarh,India,Regional Warehouse,208635,Faris Uppal,9681636506,Active
+17,Noida Warehouse,Noida,Uttar Pradesh,India,Fulfillment Center,158767,Karan Balan,7752973321,Active
+18,Gurugram Warehouse,Gurugram,Haryana,India,Distribution Center,134299,Harinakshi Chadha,9109838523,Active
+19,Kochi Warehouse,Kochi,Kerala,India,Regional Warehouse,193620,Unni Sachdeva,7484239478,Active
+20,Coimbatore Warehouse,Coimbatore,Tamil Nadu,India,Regional Warehouse,186414,Pratyush Natarajan,9662258694,Active
+21,Visakhapatnam Warehouse,Visakhapatnam,Andhra Pradesh,India,Regional Warehouse,155087,Nicholas Bora,9133942578,Active
+22,Bhubaneswar Warehouse,Bhubaneswar,Odisha,India,Fulfillment Center,94095,Gauri Mannan,9658371487,Active
+23,Chandigarh Warehouse,Chandigarh,Chandigarh,India,Distribution Center,206333,Lakshit Dayal,9282851123,Active
+24,Guwahati Warehouse,Guwahati,Assam,India,Regional Warehouse,228644,Qabil Memon,6745496689,Active
+25,Vijayawada Warehouse,Vijayawada,Andhra Pradesh,India,Fulfillment Center,259441,Frado Singh,9179954386,Active

@@ -1,0 +1,21 @@
+category_id,category_name,description,status
+1,Electronics,"Smartphones, laptops, accessories",Active
+2,Fashion,Clothing and apparel,Active
+3,Home & Kitchen,Kitchen and home essentials,Active
+4,Grocery,Daily grocery products,Active
+5,Beauty & Personal Care,Cosmetics and skincare,Active
+6,Health & Wellness,Healthcare products,Active
+7,Sports & Fitness,Sports equipment,Active
+8,Books,Books and magazines,Active
+9,Toys & Games,Toys and games,Active
+10,Furniture,Home and office furniture,Active
+11,Office Supplies,Office stationery,Active
+12,Automotive,Vehicle accessories,Active
+13,Pet Supplies,Pet food and accessories,Active
+14,Baby Products,Baby care products,Active
+15,Jewellery,Jewellery and fashion accessories,Active
+16,Footwear,Shoes and sandals,Active
+17,Bags & Luggage,Travel bags and luggage,Active
+18,Garden & Outdoor,Gardening products,Active
+19,Appliances,Home appliances,Active
+20,Stationery,School and office stationery,Active
