@@ -102,7 +102,7 @@ Supply Chain/
 
 ## 8. Author
 
-**Vansh Waghmare**
+**Vansh Waghmare**::
 Aspiring Data Analyst
 
 ### Technical Skills
